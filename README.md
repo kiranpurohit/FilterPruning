@@ -1,3 +1,3 @@
 # FilterPruning
 
-#### Website for Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit (AIMLSystems 2022)
+#### Website for "Accurate and Efficient Channel pruning via Orthogonal Matching Pursuit" (AIMLSystems 2022)
